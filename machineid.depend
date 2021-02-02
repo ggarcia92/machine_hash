@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1612275672 source:/media/gustavo/Almacen1/Development/Proyectos/machineid/main.cpp
+	<iostream>
+	<sstream>
+	"CPUInfo.h"
+	<windows.h>
+	<intrin.h>
+	<iphlpapi.h>
+	<stdlib.h>
+	<tchar.h>
+	<stdio.h>
+	<string.h>
+	<unistd.h>
+	<errno.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/ioctl.h>
+	<sys/resource.h>
+	<sys/utsname.h>
+	<netdb.h>
+	<netinet/in.h>
+	<netinet/in_systm.h>
+	<netinet/ip.h>
+	<netinet/ip_icmp.h>
+	<net/if_dl.h>
+	<ifaddrs.h>
+	<net/if_types.h>
+	<linux/if.h>
+	<linux/sockios.h>
+	<mach-o/arch.h>
+
+1612273945 source:/media/gustavo/Almacen1/Development/Proyectos/machineid/src/CPUInfo.cpp
+	"CPUInfo.h"
+	<algorithm>
+	<string>
+	<limits.h>
+	<intrin.h>
+	<stdint.h>
+
+1612272067 /media/gustavo/Almacen1/Development/Proyectos/machineid/include/CPUInfo.h
+	<string>
+	<stdint.h>
+
